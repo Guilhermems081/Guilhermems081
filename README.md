@@ -2,9 +2,9 @@
 
 
   <div>
-    <a href ="https://github.com/Guilhermems081
-    <img loading = "lazy" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermems081&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermems081&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/Guilhermems081">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&langs_count=8&theme=radical" />
   </div>
 
   <div>
