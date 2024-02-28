@@ -1,4 +1,4 @@
-### Hello word, me chamo Guilherme Martins!
+### Hello world, me chamo Guilherme Martins!
 
 
   <div>
