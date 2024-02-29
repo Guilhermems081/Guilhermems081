@@ -15,6 +15,8 @@
     <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   </div>
 
+##
+
   <div>
     <a href = "https://www.linkedin.com/in/guilherme-martins-dev/" target = "_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
