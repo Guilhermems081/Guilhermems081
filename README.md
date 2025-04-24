@@ -1,27 +1,39 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Martins!</h1>
 
+<p align="center">
+  Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong> e <strong>marketing digital</strong>.  
+  Buscando oportunidades para crescer na área de <strong>dados</strong> e <strong>desenvolvimento de software</strong>.  
+</p>
 
-  <div>
-    <a href="https://github.com/Guilhermems081">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&langs_count=8&theme=radical" />
-  </div>
+---
 
-  <div>
-    <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height = "80rem" loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  </div>
+### 🚀 Tecnologias que estou estudando:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-##
+---
 
-  <div>
-    <a href = "https://www.linkedin.com/in/guilherme-martins-dev/" target = "_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href = "https://wa.me/5581983141698" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-  </div>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📫 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/81983141698)
+
+---
+
+### ✨ Sobre mim
+- 💻 Atualmente estudando **Análise e desenvolvimento de sistemas**
+- 📚 Amante de conhecimento e evolução contínua
+- 🎯 Focado em se tornar um Data Scientist
