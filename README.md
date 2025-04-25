@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Martins!</h1>
+<h1 align="center">Olá, me chamo Guilherme Martins!</h1>
 
 <p align="center">
   Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong>.
