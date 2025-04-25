@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Martins!</h1>
 
 <p align="center">
-  Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong> e <strong>marketing digital</strong>.  
+  Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong>.
   Buscando oportunidades para crescer na área de <strong>dados</strong> e <strong>desenvolvimento de software</strong>.  
 </p>
 
