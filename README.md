@@ -2,8 +2,6 @@
 
 <p align="center">
   Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong>.
-  Buscando oportunidades para crescer na área de <strong>dados</strong> e <strong>desenvolvimento de software</strong>.  
-</p>
 
 ---
 
