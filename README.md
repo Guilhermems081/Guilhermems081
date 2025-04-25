@@ -41,10 +41,10 @@
 
 ---
 
-###✅ Cursos concluidos:
--Lógica de programação com JavaScript(concluído)
--HTML e CSS(concluído)
--Fundamentos de banco de dados(concluído)
--Python(concluído)
--Python para dados(cursando)
--Análise de dados do Google(cursando)
+### ✅ Cursos concluidos:
+- Lógica de programação com JavaScript(concluído)
+- HTML e CSS(concluído)
+- Fundamentos de banco de dados(concluído)
+- Python(concluído)
+- Python para dados(cursando)
+- Análise de dados do Google(cursando)
