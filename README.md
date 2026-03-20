@@ -5,6 +5,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical" />
+</div>
+
+---
+
 ### Linguagens de Programação:
   <p align="left">
     <a href="https://skillicons.dev">
@@ -12,7 +21,7 @@
     </a>
   </p>
 
-### Ecossistema de Dados e BI:
+### Banco de dados:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,PostgreSQL" />
@@ -25,15 +34,6 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical" />
-</div>
 
 ---
 
