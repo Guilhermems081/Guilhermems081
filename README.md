@@ -15,7 +15,7 @@
 ### Ecossistema de Dados e BI:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postegresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 </p>
 
