@@ -42,14 +42,14 @@
 
 ---
 
-### ✨ Sobre mim
+### Sobre mim
 - 💻 Atualmente estudando **Análise e desenvolvimento de sistemas**
 - 📚 Amante de conhecimento e evolução contínua
 - 🎯 Focado em se tornar um Data Scientist
 
 ---
 
-### ✅ Cursos concluidos:
+### Cursos concluidos:
 - Lógica de programação com JavaScript(concluído)
 - HTML e CSS(concluído)
 - Fundamentos de banco de dados(concluído)
