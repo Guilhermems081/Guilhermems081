@@ -6,13 +6,11 @@
 ---
 
 ### Linguagens de Programação:
-<div>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,py,c" />
     </a>
   </p>
-</div>
 
 ### Ecossistema de Dados e BI:
 <p align="left">
