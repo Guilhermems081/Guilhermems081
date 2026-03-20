@@ -45,7 +45,6 @@
 ### Sobre mim
 - Atualmente estudando **Análise e desenvolvimento de sistemas**
 - Amante de conhecimento e evolução contínua
-- Focado em se tornar um Data Scientist
 
 ---
 
