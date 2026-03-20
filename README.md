@@ -2,6 +2,14 @@
 
 <p align="center">
   Estudante de tecnologia apaixonado por <strong>dados e desenvolvimento de software</strong>.
+
+---
+
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical" />
+</div>
+
 ---
 
 ### Sobre mim:
