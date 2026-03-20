@@ -5,10 +5,24 @@
 
 ---
 
-### 🚀 Tecnologias que estou estudando:
+### 🚀 Linguagens de Programação:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,c" />
+    <img src="https://skillicons.dev/icons?i=js,py,c" />
+  </a>
+</p>
+
+### 📊 Ecossistema de Dados e BI:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite,mongodb,bi,excel" />
+  </a>
+</p>
+
+### 🎨 Tecnologias de Front-end:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
