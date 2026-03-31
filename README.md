@@ -11,9 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical&langs_count=6"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermems081&theme=radical"/>
-</div>
 
 ---
 
