@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Guilhermems081&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermems081&theme=radical"/>
 </div>
 
 ---
