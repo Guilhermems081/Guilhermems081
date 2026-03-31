@@ -6,6 +6,8 @@
 ---
 
   <div align="center">
+  <img height="180em" style="border-radius:10px;" src="..." />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Guilhermems081&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermems081&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermems081&layout=compact&theme=radical" />
 </div>
