@@ -22,8 +22,6 @@
 
 ### 🚀 Sobre mim:
 - Atualmente estudando **Análise e Desenvolvimento de Sistemas**
-- Focado em **Dados, Marketing Digital e Tecnologia**
-- Em busca de liberdade financeira através da tecnologia
 
 ---
 
