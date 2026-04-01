@@ -22,7 +22,7 @@
 
 ### 🚀 Sobre mim:
 - Atualmente estudando **Análise e Desenvolvimento de Sistemas**
-
+- Amante de conhecimento e evolução contínua
 ---
 
 ### 🌎 Onde me encontrar:
