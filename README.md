@@ -1,67 +1,73 @@
 <h1 align="center">Guilherme Martins de Souza</h1>
 
 <p align="center">
-  Transformando dados em soluções e evoluindo no desenvolvimento de software todos os dias 🚀
+  🚀 Em transição para a área de tecnologia | Focado em Dados e Desenvolvimento
 </p>
 
 ---
 
+## 📊 Estatísticas
+
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
+## 🚀 Sobre mim
 
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📊 Focado em **Dados e Desenvolvimento**
+- 📈 Em constante evolução e aprendizado
 
 ---
 
-### 🚀 Sobre mim:
-- Atualmente estudando **Análise e Desenvolvimento de Sistemas**
-- Amante de conhecimento e evolução contínua
----
+## 🌎 Onde me encontrar
 
-### 🌎 Onde me encontrar:
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/81983141698)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermems45111@gmail.com)
 
+</div>
+
 ---
 
-### 🧠 Linguagens de Programação:
-<p align="left">
+## 🧠 Linguagens de Programação
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,py,c" />
-</p>
+</div>
 
 ---
 
-### 🗄️ Banco de dados:
-<p align="left">
+## 🗄️ Banco de dados
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
-</p>
+</div>
 
 ---
 
-### 🎨 Front-end:
-<p align="left">
+## 🎨 Front-end
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+</div>
 
 ---
 
-### 📚 Cursos:
-- Lógica de programação com JavaScript ✅  
-- HTML e CSS ✅  
-- Fundamentos de banco de dados ✅  
-- Python ✅  
-- Python para dados (em andamento)  
-- Análise de dados do Google (em andamento)  
+## 📚 Cursos
+
+- ✅ Lógica de programação com JavaScript  
+- ✅ HTML e CSS  
+- ✅ Fundamentos de banco de dados  
+- ✅ Python  
+- 🔄 Python para dados (em andamento)  
+- 🔄 Análise de dados do Google (em andamento)  
