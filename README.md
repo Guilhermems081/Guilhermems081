@@ -16,7 +16,7 @@
 
 ## 🌎 Onde me encontrar
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/81983141698)
@@ -28,7 +28,7 @@
 
 ## 🧠 Linguagens de Programação
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=js,py,c" />
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 🗄️ Banco de dados
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </div>
 
@@ -44,7 +44,7 @@
 
 ## 🎨 Front-end
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </div>
 
