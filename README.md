@@ -46,14 +46,3 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </div>
-
----
-
-## 📚 Cursos
-
-- ✅ Lógica de programação com JavaScript  
-- ✅ HTML e CSS  
-- ✅ Fundamentos de banco de dados  
-- ✅ Python  
-- 🔄 Python para dados (em andamento)  
-- 🔄 Análise de dados do Google (em andamento)  
