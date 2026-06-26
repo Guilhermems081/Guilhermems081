@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Guilherme Martins de Souza</h1>
 
-<!--
-**Guilhermems081/Guilhermems081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   Desenvolvedor em formação ⏳
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📈 Em constante evolução e aprendizado
+- 📊 Formação em andamento em DevOps 
+
+---
+
+## 🌎 Onde me encontrar
+
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermems45111@gmail.com)
+
+</div>
+
+---
+
+## 🧠 Linguagens de Programação
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,py,c" />
+</div>
+
+---
+
+## 🗄️ Banco de dados
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+</div>
+
+---
+
+## 🎨 Front-end
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</div>
